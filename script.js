@@ -18,7 +18,7 @@ let obj = [
     new CardDetails("https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/b/v/bvlgari-octo-103283-large_1.jpg", "BVLGARI Octo Roma Carillon Tourbillon", 23980000),
     new CardDetails("https://cdn1.ethoswatches.com/media/catalog/product/cache/6e5de5bc3d185d8179cdc7258143f41a/h/-/h-moser-cie-streamliner-6804-0401-large.jpg", "H. Moser & Cie. Streamliner Tourbillon", 17500000),
     new CardDetails("https://content.thewosgroup.com/productimage/18100282/18100282_1.jpg?impolicy=zoom", "Brilliant Skeleton Northern Lights", 9700000),
-    new CardDetails("https://img.tatacliq.com/images/i18//1316Wx1468H/MP000000016577285_1316Wx1468H_202406301655542.jpeg", "IWC Schaffhausen", 2128000),
+    new CardDetails("https://www.iwc.com/content/dam/brand/plp-redesign/IW344602-transp.png.transform.global_image_png_375_2x.png", "IWC Schaffhausen", 2128000),
     new CardDetails("https://static.helioswatchstore.com/media/catalog/product/v/e/vevk00620_1.jpg", "Versace", 95800),
     new CardDetails("https://static.helioswatchstore.com/media/catalog/product/3/6/3600898_1.jpg", "Movado", 75800),
     new CardDetails("https://static.helioswatchstore.com/media/catalog/product/c/e/ceciwgk2116602w_3.jpg", "Cerruti", 29580),
